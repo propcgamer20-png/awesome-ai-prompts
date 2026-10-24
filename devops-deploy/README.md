@@ -22,6 +22,7 @@ Back to the [main index](../README.md#devops--deploy) or browse
 - [cloud-cost-optimization-prompt.md](cloud-cost-optimization-prompt.md) - cut the bill from measurement: ranked offenders, rightsizing off real utilization, lifecycle policies, before/after savings table.
 
 - [capacity-planning-prompt.md](capacity-planning-prompt.md) - name the wall and the date: headroom per bottleneck, forecast off a product metric, dated scaling options, early alerts.
+- [ci-gate-diagnosis-prompt.md](ci-gate-diagnosis-prompt.md) - diagnose a failing CI check from the real log: first error, flaky vs real, caused by this change or pre-existing, and whether to retry, fix code, or fix the pipeline.
 
 ## Adding a prompt here
 
