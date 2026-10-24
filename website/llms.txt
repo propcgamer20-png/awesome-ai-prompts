@@ -2,7 +2,7 @@
 
 > A curated list of copy-paste AI coding-agent prompts for developers: disciplined workflows that verify, don't guess.
 
-134 prompts across 14 categories, generated from the prompt files in github.com/shauryagangrade/awesome-ai-prompts (MIT licensed). Each prompt page carries the full prompt block ready to paste into an AI coding agent.
+135 prompts across 14 categories, generated from the prompt files in github.com/shauryagangrade/awesome-ai-prompts (MIT licensed). Each prompt page carries the full prompt block ready to paste into an AI coding agent.
 
 ## Site
 
@@ -16,7 +16,7 @@
 - [code-review](https://awesome-ai-prompts.vercel.app/category/code-review): 6 prompts
 - [core-coding](https://awesome-ai-prompts.vercel.app/category/core-coding): 20 prompts
 - [data-ai](https://awesome-ai-prompts.vercel.app/category/data-ai): 13 prompts
-- [devops-deploy](https://awesome-ai-prompts.vercel.app/category/devops-deploy): 12 prompts
+- [devops-deploy](https://awesome-ai-prompts.vercel.app/category/devops-deploy): 13 prompts
 - [docs-delivery](https://awesome-ai-prompts.vercel.app/category/docs-delivery): 6 prompts
 - [frontend-ui](https://awesome-ai-prompts.vercel.app/category/frontend-ui): 13 prompts
 - [git-github](https://awesome-ai-prompts.vercel.app/category/git-github): 14 prompts
@@ -106,6 +106,7 @@
 - [Docker containerization](https://awesome-ai-prompts.vercel.app/prompt/devops-deploy/docker-containerization): Copy-paste the block below into any AI coding agent to containerize an application - a small, secure, working image, not a copy-pasted Dockerfile...
 - [feature flags & progressive rollout](https://awesome-ai-prompts.vercel.app/prompt/devops-deploy/feature-flag-rollout): Copy-paste the block below into any AI coding agent to ship a risky change behind a flag with progressive rollout, an instant kill switch, and a cleanup...
 - [incident response](https://awesome-ai-prompts.vercel.app/prompt/devops-deploy/incident-response): Copy-paste the block below into any AI coding agent to debug a live incident or write a post-mortem - structured triage, root-cause analysis, and...
+- [infrastructure drift detection](https://awesome-ai-prompts.vercel.app/prompt/devops-deploy/infra-drift-detection): Copy-paste the block below into any AI coding agent to find where live infrastructure no longer matches its Terraform, CloudFormation, or Pulumi code...
 - [infrastructure as code](https://awesome-ai-prompts.vercel.app/prompt/devops-deploy/infrastructure-as-code): Copy-paste the block below into any AI coding agent to define or change cloud infrastructure (Terraform/OpenTofu, CloudFormation, CDK, Pulumi) with the...
 - [Kubernetes deployment](https://awesome-ai-prompts.vercel.app/prompt/devops-deploy/kubernetes-deployment): Copy-paste the block below into any AI coding agent to deploy to Kubernetes securely: real health probes, zero-downtime rollouts, non-root pods, and...
 - [monitoring and observability](https://awesome-ai-prompts.vercel.app/prompt/devops-deploy/monitoring-observability): Copy-paste the block below into any AI coding agent to set up logging, metrics, and alerting - actionable dashboards and alerts, not noisy dashboards...

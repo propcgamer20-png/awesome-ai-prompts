@@ -22,6 +22,7 @@ Back to the [main index](../README.md#devops--deploy) or browse
 - [cloud-cost-optimization-prompt.md](cloud-cost-optimization-prompt.md) - cut the bill from measurement: ranked offenders, rightsizing off real utilization, lifecycle policies, before/after savings table.
 
 - [capacity-planning-prompt.md](capacity-planning-prompt.md) - name the wall and the date: headroom per bottleneck, forecast off a product metric, dated scaling options, early alerts.
+- [infra-drift-detection-prompt.md](infra-drift-detection-prompt.md) - find where live infrastructure differs from its IaC, rank each drift by risk, and pick a safe fix with a verification, read-only until approved.
 
 ## Adding a prompt here
 
