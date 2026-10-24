@@ -11,6 +11,7 @@ Versioning follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
+- Add `security-performance/secrets-scanning-response-prompt.md` - incident playbook for a committed secret: revoke and rotate first, assess exposure from provider logs, clean history safely, and prevent a repeat (closes #101).
 - Add `git-github/local-pr-cleanup-prompt.md` - spec prompt for full local hygiene after complex PR work: branches, worktrees, stashes, and build artifacts.
 - Add `git-github/remote-pr-cleanup-prompt.md` - spec prompt for full remote hygiene after complex PR work: prune remotes, delete merged PR branches, sync with upstream.
 

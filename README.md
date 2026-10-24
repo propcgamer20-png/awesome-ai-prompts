@@ -304,7 +304,7 @@ described above.
 - [Code review & quality](#code-review--quality) (6) <img src="docs/media/spec-badge.svg" alt="spec" style="vertical-align:-3px">
 - [Testing & quality](#testing--quality) (10) <img src="docs/media/spec-badge.svg" alt="spec" style="vertical-align:-3px">
 - [Docs & delivery](#docs--delivery) (6)
-- [Security & performance](#security--performance) (11) <img src="docs/media/spec-badge.svg" alt="spec" style="vertical-align:-3px">
+- [Security & performance](#security--performance) (12) <img src="docs/media/spec-badge.svg" alt="spec" style="vertical-align:-3px">
 - [DevOps & deploy](#devops--deploy) (12)
 - [Career & learning](#career--learning) (7)
 - [Frontend & UI](#frontend--ui) (13) <img src="docs/media/spec-badge.svg" alt="spec" style="vertical-align:-3px">
@@ -407,6 +407,7 @@ described above.
 - [security-audit-prompt.md](security-performance/security-audit-prompt.md) <img src="docs/media/spec-badge.svg" alt="spec" style="vertical-align:-3px"> - full-repo audit: injection, auth, secrets, dependencies, with verified findings.
 - [performance-optimization-prompt.md](security-performance/performance-optimization-prompt.md) - measure-first optimization with before/after proof.
 - [secrets-management-prompt.md](security-performance/secrets-management-prompt.md) - audit and remediate hardcoded secrets, set up env-based secret management.
+- [secrets-scanning-response-prompt.md](security-performance/secrets-scanning-response-prompt.md) - respond to a leaked secret: revoke and rotate first, assess exposure, clean history safely, prevent a repeat.
 - [load-testing-prompt.md](security-performance/load-testing-prompt.md) - design and run load/stress tests with measurable thresholds.
 - [dependency-audit-prompt.md](security-performance/dependency-audit-prompt.md) - audit dependencies for vulnerabilities, license issues, and staleness.
 - [threat-modeling-prompt.md](security-performance/threat-modeling-prompt.md) - STRIDE-style threat model ranked by real risk, with verified mitigations.

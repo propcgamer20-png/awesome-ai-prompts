@@ -14,6 +14,7 @@ Back to the [main index](../README.md#security--performance) or browse
 - [security-audit-prompt.md](security-audit-prompt.md) <img src="../docs/media/spec-badge.svg" alt="spec" style="vertical-align:-3px"> - full-repo audit: injection, auth, secrets, dependencies, with verified findings.
 - [performance-optimization-prompt.md](performance-optimization-prompt.md) - measure-first optimization with before/after proof.
 - [secrets-management-prompt.md](secrets-management-prompt.md) - audit and remediate hardcoded secrets, set up env-based secret management.
+- [secrets-scanning-response-prompt.md](secrets-scanning-response-prompt.md) - respond to a leaked secret: revoke and rotate first, assess exposure, clean history safely, prevent a repeat.
 - [load-testing-prompt.md](load-testing-prompt.md) - design and run load/stress tests with measurable thresholds.
 - [dependency-audit-prompt.md](dependency-audit-prompt.md) - audit dependencies for vulnerabilities, license issues, and staleness.
 - [threat-modeling-prompt.md](threat-modeling-prompt.md) - STRIDE-style threat model ranked by real risk, with verified mitigations.
