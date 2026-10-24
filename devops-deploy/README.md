@@ -22,6 +22,7 @@ Back to the [main index](../README.md#devops--deploy) or browse
 - [cloud-cost-optimization-prompt.md](cloud-cost-optimization-prompt.md) - cut the bill from measurement: ranked offenders, rightsizing off real utilization, lifecycle policies, before/after savings table.
 
 - [capacity-planning-prompt.md](capacity-planning-prompt.md) - name the wall and the date: headroom per bottleneck, forecast off a product metric, dated scaling options, early alerts.
+- [incident-postmortem-prompt.md](incident-postmortem-prompt.md) - blameless postmortem built from evidence: sourced timeline, trigger vs underlying conditions, and action items with owners and verification.
 
 ## Adding a prompt here
 
