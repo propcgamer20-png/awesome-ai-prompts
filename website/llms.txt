@@ -2,7 +2,7 @@
 
 > A curated list of copy-paste AI coding-agent prompts for developers: disciplined workflows that verify, don't guess.
 
-134 prompts across 14 categories, generated from the prompt files in github.com/shauryagangrade/awesome-ai-prompts (MIT licensed). Each prompt page carries the full prompt block ready to paste into an AI coding agent.
+135 prompts across 14 categories, generated from the prompt files in github.com/shauryagangrade/awesome-ai-prompts (MIT licensed). Each prompt page carries the full prompt block ready to paste into an AI coding agent.
 
 ## Site
 
@@ -12,7 +12,7 @@
 ## Categories
 
 - [a-a-p-contributing](https://awesome-ai-prompts.vercel.app/category/a-a-p-contributing): 6 prompts
-- [career-learning](https://awesome-ai-prompts.vercel.app/category/career-learning): 7 prompts
+- [career-learning](https://awesome-ai-prompts.vercel.app/category/career-learning): 8 prompts
 - [code-review](https://awesome-ai-prompts.vercel.app/category/code-review): 6 prompts
 - [core-coding](https://awesome-ai-prompts.vercel.app/category/core-coding): 20 prompts
 - [data-ai](https://awesome-ai-prompts.vercel.app/category/data-ai): 13 prompts
@@ -41,6 +41,7 @@
 
 - [coding interview practice](https://awesome-ai-prompts.vercel.app/prompt/career-learning/code-interview-practice): Copy-paste the block below into any AI coding agent to run structured interview practice - hints on demand, honest feedback, and complexity analysis, like...
 - [conference talk proposal & prep](https://awesome-ai-prompts.vercel.app/prompt/career-learning/conference-talk-proposal-prep): Copy-paste the block below into any AI coding agent to turn a talk idea into a submission that gets accepted and a presentation you can actually deliver...
+- [interview debugging drill](https://awesome-ai-prompts.vercel.app/prompt/career-learning/interview-debugging-drill): Copy-paste the block below into any AI coding agent to practice the debugging round of a technical interview on a real codebase. The agent picks a genuine...
 - [learning roadmap](https://awesome-ai-prompts.vercel.app/prompt/career-learning/learning-roadmap): Copy-paste the block below into any AI coding agent to turn a skill gap into a concrete, project-based learning roadmap with checkpoints you can actually...
 - [mentoring and technical feedback](https://awesome-ai-prompts.vercel.app/prompt/career-learning/mentoring-feedback): Copy-paste the block below into any AI coding agent to give a junior developer feedback on a PR or code change that they can act on: specific...
 - [portfolio project builder](https://awesome-ai-prompts.vercel.app/prompt/career-learning/portfolio-project): Copy-paste the block below into any AI coding agent to take a project idea from vague concept to a polished portfolio piece you'd be proud to show...

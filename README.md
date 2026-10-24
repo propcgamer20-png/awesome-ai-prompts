@@ -306,7 +306,7 @@ described above.
 - [Docs & delivery](#docs--delivery) (6)
 - [Security & performance](#security--performance) (11) <img src="docs/media/spec-badge.svg" alt="spec" style="vertical-align:-3px">
 - [DevOps & deploy](#devops--deploy) (12)
-- [Career & learning](#career--learning) (7)
+- [Career & learning](#career--learning) (8)
 - [Frontend & UI](#frontend--ui) (13) <img src="docs/media/spec-badge.svg" alt="spec" style="vertical-align:-3px">
 - [Data & AI](#data--ai) (13) <img src="docs/media/spec-badge.svg" alt="spec" style="vertical-align:-3px">
 - [Mobile development](#mobile-development) (8) <img src="docs/media/spec-badge.svg" alt="spec" style="vertical-align:-3px">
@@ -440,6 +440,7 @@ described above.
 - [learning-roadmap-prompt.md](career-learning/learning-roadmap-prompt.md) - turn a skill gap into a project-based roadmap with verifiable checkpoints.
 - [conference-talk-proposal-prep-prompt.md](career-learning/conference-talk-proposal-prep-prompt.md) - write a competitive CFP and rehearse the talk: hook, takeaway, timed outline, demo fallbacks.
 - [mentoring-feedback-prompt.md](career-learning/mentoring-feedback-prompt.md) - give structured, verifiable feedback to a junior engineer with evidence.
+- [interview-debugging-drill-prompt.md](career-learning/interview-debugging-drill-prompt.md) - practice the debugging round on a real bug: reproduce first, test hypotheses, prove the root cause, make a minimal fix with a regression test, and get feedback on method and communication.
 
 ## Frontend & UI
 

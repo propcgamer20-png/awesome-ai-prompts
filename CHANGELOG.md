@@ -11,6 +11,7 @@ Versioning follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
+- Add `career-learning/interview-debugging-drill-prompt.md` - practice the debugging round on a real bug: reproduce first, test hypotheses, prove the root cause, make a minimal fix with a regression test, and get feedback on method and communication. (closes #94).
 - Add `git-github/local-pr-cleanup-prompt.md` - spec prompt for full local hygiene after complex PR work: branches, worktrees, stashes, and build artifacts.
 - Add `git-github/remote-pr-cleanup-prompt.md` - spec prompt for full remote hygiene after complex PR work: prune remotes, delete merged PR branches, sync with upstream.
 
